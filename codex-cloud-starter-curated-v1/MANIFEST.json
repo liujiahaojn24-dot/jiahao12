@@ -1,0 +1,172 @@
+{
+  "source": "codexkit-starter-pack-v0.10.0.zip",
+  "source_sha256": "f56bc163c3f610d8b9fee9ab94f8531cc9c6ce3915f925df4bc5b4a602dbbc6b",
+  "selected_skills": [
+    "codexkit-repo-onboarding",
+    "codexkit-execution-planner",
+    "codexkit-bug-hunt",
+    "codexkit-test-hardening",
+    "codexkit-high-signal-review",
+    "codexkit-architecture-decision-writer",
+    "codexkit-cloud-delegation",
+    "codexkit-process-mapper"
+  ],
+  "files": [
+    {
+      "path": ".agents/skills/codexkit-architecture-decision-writer/SKILL.md",
+      "sha256": "d256cc2e4547fdbe6cc863ec1c87fbbc2289ab967ac71898c96f350721bd2493"
+    },
+    {
+      "path": ".agents/skills/codexkit-architecture-decision-writer/agents/openai.yaml",
+      "sha256": "f405d2a0d2d4978bd9d35de93c3b8b43474297ef592a947772af3a0ae2bf458b"
+    },
+    {
+      "path": ".agents/skills/codexkit-bug-hunt/SKILL.md",
+      "sha256": "8bdbcc3de695392031ec7905e15ff9e9985dc9f712826d4926c10b374453c424"
+    },
+    {
+      "path": ".agents/skills/codexkit-bug-hunt/agents/openai.yaml",
+      "sha256": "2af6cf8e69d6a750c3083a1c6e1a1ae4413144e58a74c8f305f95f1b4ddb5a96"
+    },
+    {
+      "path": ".agents/skills/codexkit-bug-hunt/examples/common-mistakes.md",
+      "sha256": "6ff316bba3b95556ac74940479066591e3b7da8353e9039e49ecf31117a581e5"
+    },
+    {
+      "path": ".agents/skills/codexkit-bug-hunt/examples/good-output.md",
+      "sha256": "b39aa0c2d5f8b18fe16e3f273bf0b5ddc45b1954c508e6d1723006e1758ea402"
+    },
+    {
+      "path": ".agents/skills/codexkit-bug-hunt/verification/checklist.md",
+      "sha256": "0b27a3ef52bdd21335c1779af48504cf53291b5263737ac303fe602e5b442dbd"
+    },
+    {
+      "path": ".agents/skills/codexkit-cloud-delegation/SKILL.md",
+      "sha256": "9aedf4a99d46b2d17a0f2ab7e9589cb86daf1bc43122d1c31c2fe223de82c3e2"
+    },
+    {
+      "path": ".agents/skills/codexkit-cloud-delegation/agents/openai.yaml",
+      "sha256": "1e1fb11e61f9c666599c3ef59335ec185cf87a8bd4137e85d92a28ed6973635c"
+    },
+    {
+      "path": ".agents/skills/codexkit-execution-planner/SKILL.md",
+      "sha256": "2c6d79a330bf2e58d0174ce2da1ee4de8298657996a3e4cecfbea0265e69a403"
+    },
+    {
+      "path": ".agents/skills/codexkit-execution-planner/agents/openai.yaml",
+      "sha256": "a9c1da700b0293d75d40bca6c2ff866abf4994a6d337a99b83d4f5bdbfe02c50"
+    },
+    {
+      "path": ".agents/skills/codexkit-execution-planner/examples/common-mistakes.md",
+      "sha256": "e994aad8da58cd008ce3303593a6dfa0dd4f43245dfb9c41e8ec15d9ae3b2ca8"
+    },
+    {
+      "path": ".agents/skills/codexkit-execution-planner/examples/good-output.md",
+      "sha256": "feb77bb1c577708905282471511f2ac04762ae7cb7fd2d6194ba9764613dd584"
+    },
+    {
+      "path": ".agents/skills/codexkit-execution-planner/references/plan-template.md",
+      "sha256": "ce941e5d414591b99416be45373806d27c4b362ca423dff939a6a23dbcee6158"
+    },
+    {
+      "path": ".agents/skills/codexkit-execution-planner/verification/checklist.md",
+      "sha256": "a747d2946ced52f0fe509fe828dda06bf2bfcc77b0afb8cd208e159c5e993e03"
+    },
+    {
+      "path": ".agents/skills/codexkit-high-signal-review/SKILL.md",
+      "sha256": "53ffe892cddaf9289138dcfe90ddec173b41b63c0bc4fc4108213f459df8d615"
+    },
+    {
+      "path": ".agents/skills/codexkit-high-signal-review/agents/openai.yaml",
+      "sha256": "4412e8d3635bd6400994f049a6e384157aee725dd86330483601f5f7d247ff04"
+    },
+    {
+      "path": ".agents/skills/codexkit-high-signal-review/examples/common-mistakes.md",
+      "sha256": "a30d1ab169c9002603de477b20ffd2067517c7d4a12f4fd2cb87be08a9f1cc38"
+    },
+    {
+      "path": ".agents/skills/codexkit-high-signal-review/examples/good-output.md",
+      "sha256": "2fcf7e516cffb2d7d0accebbb3616be8d5cddf9c07c82707b775872b7ec7ee6e"
+    },
+    {
+      "path": ".agents/skills/codexkit-high-signal-review/references/severity-rubric.md",
+      "sha256": "ae343e4ee4eaf9c27e3364b68fdfa32f0c1fa8c9841531b83de42a1001d1753e"
+    },
+    {
+      "path": ".agents/skills/codexkit-high-signal-review/verification/checklist.md",
+      "sha256": "c4a3ac32428d8b4e1fb761cc4ec2fc097e9a9299105eeff62670191d4e792f7e"
+    },
+    {
+      "path": ".agents/skills/codexkit-process-mapper/SKILL.md",
+      "sha256": "48bc7d6c31020609e01c40ba2ee40ac6e3cc6023a2ec8e790f6a391d1d86a3aa"
+    },
+    {
+      "path": ".agents/skills/codexkit-process-mapper/agents/openai.yaml",
+      "sha256": "097bdce46bcb018231cba0d6e3920ac2a89b7687ee8aa62364f8bd3d6367fbb7"
+    },
+    {
+      "path": ".agents/skills/codexkit-process-mapper/examples/common-mistakes.md",
+      "sha256": "123bc00497576a500a1d1f67cdd055b0dcff36419ddd456deb998f5245545e7e"
+    },
+    {
+      "path": ".agents/skills/codexkit-process-mapper/examples/good-output.md",
+      "sha256": "c274325b923d0bd3e501d627237d65db0488ac2d36e3b61780bdd92b9d2281b4"
+    },
+    {
+      "path": ".agents/skills/codexkit-process-mapper/verification/checklist.md",
+      "sha256": "95eebd9b50a58963cf0b2c388319a77b1fd549e1a407ee13e537387fe6da7e8e"
+    },
+    {
+      "path": ".agents/skills/codexkit-repo-onboarding/SKILL.md",
+      "sha256": "5fca05833691cc5a45014aef439851b0141345988bc929cdea11e911cbefe31f"
+    },
+    {
+      "path": ".agents/skills/codexkit-repo-onboarding/agents/openai.yaml",
+      "sha256": "94b14c1c9af9a04c93a0cbb997d1cd35352259ed01ec2f6decb46fb94d844ff5"
+    },
+    {
+      "path": ".agents/skills/codexkit-repo-onboarding/examples/common-mistakes.md",
+      "sha256": "01f714537bbf8905376f209f6254116e97ed7188577b5d6608950a02fac5490e"
+    },
+    {
+      "path": ".agents/skills/codexkit-repo-onboarding/examples/good-output.md",
+      "sha256": "b4afebb293af873e484bd33a890d452060151b4b8ee9f5ef5cc1f890bfa3ba02"
+    },
+    {
+      "path": ".agents/skills/codexkit-repo-onboarding/verification/checklist.md",
+      "sha256": "0967ed9df3a52b54611b44e8631a0211f191e04bfbcc403629125d0ef4f6f0d6"
+    },
+    {
+      "path": ".agents/skills/codexkit-test-hardening/SKILL.md",
+      "sha256": "60967a923b4ba388c33c222ec1a51148b298d6c849251a1d1aeb038442cfb7c5"
+    },
+    {
+      "path": ".agents/skills/codexkit-test-hardening/agents/openai.yaml",
+      "sha256": "11fe4c45f2f1c23148563c566fd383fe0abf2555dadce7c2a6c28f9309dc5043"
+    },
+    {
+      "path": "AGENTS.md",
+      "sha256": "70a64e564ed7ce41a622ac3d7df32e6abf9521f9c15a32614cf4217551250d5b"
+    },
+    {
+      "path": "README.md",
+      "sha256": "d53708702792604dd08d683828b77c1bbc7cda114c2197e05d253b72c26266e9"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICE.md",
+      "sha256": "16625e05be820a775b674bd17a68c07cb1f1f9ac675a68e651b8af67eadb060f"
+    },
+    {
+      "path": "docs/BASELINE.md",
+      "sha256": "b7a1e3d106b749d535fd429a7d1298a48141fcef29b90bbdbeaa5cf74f0a9a58"
+    },
+    {
+      "path": "docs/PROJECT_CONTEXT.md",
+      "sha256": "625a9c4675c8f6c905c0a38e7d6f60df3e8de2227b3b1ae618d34eb53bf0f1fc"
+    },
+    {
+      "path": "docs/TEST_PLAN.md",
+      "sha256": "fcac9635037fd7602ba8ce5186d3777fb713d7cce7ede376523a3b4d4bc94635"
+    }
+  ]
+}
